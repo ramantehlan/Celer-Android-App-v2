@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jppf-node-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/events/libs/jppf-node-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

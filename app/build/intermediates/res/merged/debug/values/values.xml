@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="pref_empty_array">
+  </string-array>
+    <string-array name="pref_ssl_context_protocol_values">
+    <item>SSL</item>
+    <item>SSLv3</item>
+    <item>TLS</item>
+    <item>TLSv1</item>
+    <item>TLSv1.1</item>
+    <item>TLSv1.2</item>
+  </string-array>
+    <string-array name="pref_ssl_engine_protocol_default">
+    <item>TLSv1</item>
+  </string-array>
+    <string-array name="pref_ssl_engine_protocol_values">
+    <item>SSLv3</item>
+    <item>TLSv1</item>
+  </string-array>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/src/main/res/values/bool.xml -->
+    <eat-comment/>
+    <bool name="atLeastKitKat">false</bool>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="backgroundColor">#ebeff1</color>
+    <color name="cardColor">#ffffff</color>
+    <color name="colorAccent">#828282</color>
+    <color name="colorPrimary">#2d56b4</color>
+    <color name="colorPrimaryDark">#002e84</color>
+    <color name="colorPrimaryLight">#6882e7</color>
+    <color name="colorSecondary">#1a237e</color>
+    <color name="colorSecondaryDark">#000051</color>
+    <color name="colorSecondaryLight">#534bae</color>
+    <color name="textAppName">#e07412</color>
+    <color name="textColorPrimary">#ffffff</color>
+    <color name="textColorSecondary">#ffffff</color>
+    <color name="textDetails">#d7ccc8</color>
+    <color name="textListTitle">#5a5a5a</color>
+    <color name="textListValue">#828282</color>
+    <color name="textNormal">#000000</color>
+    <declare-styleable name="NumberPickerPreference"><attr format="integer" name="minValue"/><attr format="integer" name="maxValue"/><attr format="integer" name="defValue"/></declare-styleable>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">4dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/build/intermediates/exploded-aar/Celer-2/events/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="default_text_size">14sp</dimen>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Celer</string>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/build/intermediates/exploded-aar/Celer-2/events/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="current_job_label">Current job</string>
+    <string name="current_tasks_label">Current tasks</string>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="empty_string"/>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/build/intermediates/exploded-aar/Celer-2/events/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="execution_state_executing">executing</string>
+    <string name="execution_state_idle">idle</string>
+    <string name="execution_state_label">Execution</string>
+    <string name="int_zero">0</string>
+    <string name="n_slash_a">N/A</string>
+    <string name="node_state_label">Connection</string>
+    <string name="node_state_offline">offline</string>
+    <string name="node_state_online">online</string>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="pref_battery_critical_sum">Critical battery level in % of charge</string>
+    <string name="pref_battery_critical_title">Critical level %</string>
+    <string name="pref_battery_monitoring_enabled_default">true</string>
+    <string name="pref_battery_monitoring_enabled_sum_off">off: battery monitoring is disabled</string>
+    <string name="pref_battery_monitoring_enabled_sum_on">on: battery monitoring is enabled</string>
+    <string name="pref_battery_monitoring_enabled_title">Battery monitoring enabled</string>
+    <string name="pref_battery_monitoring_sum">Configure warning / critical levels</string>
+    <string name="pref_battery_monitoring_title">Battery monitoring</string>
+    <string name="pref_battery_warning_sum">Warning battery level in % of charge</string>
+    <string name="pref_battery_warning_title">Warning level %</string>
+    <string name="pref_enabled_cipher_suites_sum">The set of enabled cypher suites</string>
+    <string name="pref_enabled_cipher_suites_title">Enabled cypher suites</string>
+    <string name="pref_key_store_location_sum">Location of the node public/private key store</string>
+    <string name="pref_key_store_location_title">Node key store location</string>
+    <string name="pref_key_store_password_sum">Password for the node public/private key store</string>
+    <string name="pref_key_store_password_title">Node key store password</string>
+    <string name="pref_security_sum">SSL/TLS configuration</string>
+    <string name="pref_security_title">Security</string>
+    <string name="pref_server_connection_sum">Server connectivity settings</string>
+    <string name="pref_server_connection_title">Server connection</string>
+    <string name="pref_servers_hint">my.host1.com:11443\n1.2.3.4:11111:false</string>
+    <string name="pref_servers_sum">1 per line, format server:port[:ssl_enabled]</string>
+    <string name="pref_servers_title">Servers to connect to</string>
+    <string name="pref_ssl_auth_type_default">false</string>
+    <string name="pref_ssl_auth_type_sum_off">off: server authentication only</string>
+    <string name="pref_ssl_auth_type_sum_on">on: client authentication required</string>
+    <string name="pref_ssl_auth_type_title">Mutual authentication</string>
+    <string name="pref_ssl_context_protocol_default">Default</string>
+    <string name="pref_ssl_context_protocol_sum">Protocol value for SSLContext.getProtocol()</string>
+    <string name="pref_ssl_context_protocol_title">SSL context protocol</string>
+    <string name="pref_ssl_enabled_default">false</string>
+    <string name="pref_ssl_enabled_sum_off">off: SSL/TLS communications are disabled</string>
+    <string name="pref_ssl_enabled_sum_on">on: SSL/TLS communications are enabled</string>
+    <string name="pref_ssl_enabled_title">SSL enabled</string>
+    <string name="pref_ssl_engine_protocol_sum">Protocol value for SSLEngine.getEnabledProtocols()</string>
+    <string name="pref_ssl_engine_protocol_title">SSL engine protocols</string>
+    <string name="pref_threads_sum">Number of processing threads</string>
+    <string name="pref_threads_title">Threads</string>
+    <string name="pref_trust_store_location_sum">Location of the server certificate store</string>
+    <string name="pref_trust_store_location_title">Server trust store location</string>
+    <string name="pref_trust_store_password_sum">Password for the server certificate store</string>
+    <string name="pref_trust_store_password_title">Server trust store password</string>
+    <string name="title_activity_main">Celer</string>
+    <string name="title_activity_settings">Configuration</string>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/build/intermediates/exploded-aar/Celer-2/events/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="total_tasks_label">Total tasks</string>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+
+        <item name="android:windowBackground">@color/backgroundColor</item>
+        <item name="android:textColorHint">@color/colorAccent</item>
+
+
+    </style>
+</resources>

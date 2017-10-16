@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml:19:1-21:12
+	package
+		ADDED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml:19:70-101
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml:19:11-69
+	android:versionCode
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml:20:3-87
+MERGED from [Celer-2:events:unspecified] C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\build\intermediates\exploded-aar\Celer-2\events\unspecified\AndroidManifest.xml:28:5-47
+	android:allowBackup
+		ADDED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml:20:16-42
+	android:icon
+		ADDED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml:20:43-85
+uses-sdk
+INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Celer-2:events:unspecified] C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\build\intermediates\exploded-aar\Celer-2\events\unspecified\AndroidManifest.xml:24:5-26:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Sony\AndroidStudioProjects\Celer-2\demo\src\main\AndroidManifest.xml

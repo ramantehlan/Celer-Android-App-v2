@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Sony/AndroidStudioProjects/Celer-2/events/build/intermediates/bundles/debug/res/values/values.xml -->
+    <eat-comment/>
+    <dimen name="default_text_size">14sp</dimen>
+    <string name="app_name">JPPF Android Node Events</string>
+    <string name="current_job_label">Current job</string>
+    <string name="current_tasks_label">Current tasks</string>
+    <string name="execution_state_executing">executing</string>
+    <string name="execution_state_idle">idle</string>
+    <string name="execution_state_label">Execution</string>
+    <string name="int_zero">0</string>
+    <string name="n_slash_a">N/A</string>
+    <string name="node_state_label">Connection</string>
+    <string name="node_state_offline">offline</string>
+    <string name="node_state_online">online</string>
+    <string name="total_tasks_label">Total tasks</string>
+</resources>

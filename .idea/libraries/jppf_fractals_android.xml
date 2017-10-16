@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jppf-fractals-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/libs/jppf-fractals-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

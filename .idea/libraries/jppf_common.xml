@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jppf-common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/events/libs/jppf-common.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

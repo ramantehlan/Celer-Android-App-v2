@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Sony\AndroidStudioProjects\Celer-2\events\libs\jppf-common.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="190d5446fa6671ce7ab03cc0b29bc5ebfcd73b17">
+        <dex dex="C:\Users\Sony\AndroidStudioProjects\Celer-2\app\build\intermediates\pre-dexed\debug\jppf-common-e30198ade0a9b79a8e3530a742c728101f82f583.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sony\AndroidStudioProjects\Celer-2\events\libs\jppf-server.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e778e608b03a997604ef0d729d167f2b1397f34">
+        <dex dex="C:\Users\Sony\AndroidStudioProjects\Celer-2\app\build\intermediates\pre-dexed\debug\jppf-server-c9c8bac7e09706115a3dac469fb1829b21a89195.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sony\AndroidStudioProjects\Celer-2\events\libs\slf4j-api-1.7.10.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f0539cc14a9566112cdc11005be0374f48905b38">
+        <dex dex="C:\Users\Sony\AndroidStudioProjects\Celer-2\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.10-79f7cc02db9bacd0df487aadecd3925e2de5ae26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sony\AndroidStudioProjects\Celer-2\events\libs\jppf-node-android.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="19e0fd408154252e6f874ba0bbce19511e49de6e">
+        <dex dex="C:\Users\Sony\AndroidStudioProjects\Celer-2\app\build\intermediates\pre-dexed\debug\jppf-node-android-81b99d9670fa13411a6cdf25a83c3b16d1094b41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sony\AndroidStudioProjects\Celer-2\events\libs\lz4-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c708bb2590c0652a642236ef45d9f99ff842a2ce">
+        <dex dex="C:\Users\Sony\AndroidStudioProjects\Celer-2\app\build\intermediates\pre-dexed\debug\lz4-1.3.0-1892a48b390a21ae1ad06d5af2292171a372d5d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sony\AndroidStudioProjects\Celer-2\events\libs\slf4j-android-1.7.10.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6c6bfab2f4dfe27cab6b92a3c814784e5b421566">
+        <dex dex="C:\Users\Sony\AndroidStudioProjects\Celer-2\app\build\intermediates\pre-dexed\debug\slf4j-android-1.7.10-3300addbb4b982a9a16236e0edf8533d0a8e1328.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sony\AndroidStudioProjects\Celer-2\app\build\intermediates\exploded-aar\Celer-2\events\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecdbdbb432364e7e997ad7e0d6f2e86ffaacf995">
+        <dex dex="C:\Users\Sony\AndroidStudioProjects\Celer-2\app\build\intermediates\pre-dexed\debug\classes-6cdbe58e21ec82feeb535f6fe6cba4fb1e4409e9.jar" />
+    </item>
+
+</items>
